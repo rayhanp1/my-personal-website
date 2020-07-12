@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif
+}
+h5{
+    font-size: 25px;
+    font-weight: 600;
+}
+h3{
+    font-weight: 500;
+    font-size: 25px;
+}
+h2{
+    font-weight: 500;
+    font-size: 40px;
+}
+h1{
+    
+    font-size: 50px;
+}
+.name{
+    color: #ec4c7a;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    
+}
+.half-width{
+    float: left;
+    width: 31%;
+    margin-top: 250px;
+    margin-left: 17%;
+}
+
+
+.half-width-img{
+    float: left;
+    margin-top: 202px;
+    margin-left: 120px;
+    width: 450px;
+
+}
+.half-width-img img{
+    width: 100%;
+}
+section{
+    height: 812px;
+   
+}
+.top-section{
+    background-size: cover;
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+.hire-me-button{
+    text-decoration: none;
+    font-size: 20px;
+    background: linear-gradient(45deg, #ec4f8f, #ed4b72);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+p{
+    color: dimgray;
+    margin-bottom: 40px;
+}
+.bio-section{
+    background-size: cover;
+    background-image: url(img/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work-section{
+    height: 600px;
+    text-align: center;
+    background-size: cover;
+    background: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work-section h2{
+    margin: 90px;
+    font-size: 40px;
+}
+
+.img-division img{
+    width: 26%;
+    margin-left: 30px;
+}
+.footer-section{
+    text-align: center;
+    background-size: cover;
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.client{
+    margin-top: 80px;
+}
+.describe-me{
+    margin: auto;
+    width: 400px;
+    margin-bottom: 130px;
+}
+.describe-me p{
+    font-size: 17px;
+    color: black;
+    margin-top: 70px;
+    font-weight: 500;
+}
+.contact{
+    margin: auto;
+    background: linear-gradient(45deg, #ec4f8f, #ed4b72);
+    width: 450px;
+    padding: 55px 120px;
+    border-radius: 7px;
+    color: white;
+}
+.contact p{
+    margin-bottom: 2px;
+    color: white;
+}
+footer{
+    text-align: center;
+    font-size: 17px;
+}
